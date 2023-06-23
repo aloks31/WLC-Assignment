@@ -30,16 +30,11 @@ public class BurgerKing {
             	priceTikkiBurger = 0;
             	
             }
-        	
-        	
-        	
+   	
         }
-        
-     
 
         return ans;
-    
-    
+
     }
 
 
